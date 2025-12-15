@@ -75,6 +75,13 @@
                 <version>${project.version}</version>
             </dependency>
 
+            <!-- MCP OSGi Support -->
+            <dependency>
+                <groupId>io.modelcontextprotocol.sdk</groupId>
+                <artifactId>mcp-osgi</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
